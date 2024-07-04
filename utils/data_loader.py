@@ -57,5 +57,5 @@ def load_imdb_dataset():
     
     return name_basics, title_basics, title_ratings
 
-
-
+# Usage
+# name_basics, title_basics, title_ratings = load_imdb_dataset()

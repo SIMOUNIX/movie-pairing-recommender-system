@@ -16,6 +16,8 @@ This project implements a hybrid movie recommendation system using content-based
 - Extracted relevant features including genres, actors, and ratings
 - Applied TF-IDF vectorization to movie features
 
+To simplify the process you can use the function `preprocess_datasets()` which will make all the modifications to the datasets and return the used variables.
+
 ## Recommendation Algorithm
 
 The system uses a two-step approach:
